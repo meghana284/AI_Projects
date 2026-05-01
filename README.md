@@ -9,3 +9,6 @@ A machine learning project that predicts house prices based on features like siz
 
 ### 3. Spam Email Detection
 A machine learning project that classifies emails as spam or not spam using NLP and Naive Bayes algorithm.
+
+### 4. Sentiment Analysis
+A machine learning project that classifies text as positive or negative using NLP and Naive Bayes algorithm.

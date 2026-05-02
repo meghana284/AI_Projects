@@ -12,3 +12,6 @@ A machine learning project that classifies emails as spam or not spam using NLP 
 
 ### 4. Sentiment Analysis
 A machine learning project that classifies text as positive or negative using NLP and Naive Bayes algorithm.
+
+### 5. Movie Recommendation System
+A content-based recommendation system that suggests similar movies using cosine similarity.

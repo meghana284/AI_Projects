@@ -15,3 +15,6 @@ A machine learning project that classifies text as positive or negative using NL
 
 ### 5. Movie Recommendation System
 A content-based recommendation system that suggests similar movies using cosine similarity.
+
+### 6. Handwritten Digit Recognition
+A machine learning project that recognizes handwritten digits using classification algorithms.

@@ -18,3 +18,6 @@ A content-based recommendation system that suggests similar movies using cosine 
 
 ### 6. Handwritten Digit Recognition
 A machine learning project that recognizes handwritten digits using classification algorithms.
+
+### 7. AI Chatbot
+A simple AI chatbot that responds to user queries using basic NLP techniques.

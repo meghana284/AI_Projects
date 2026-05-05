@@ -21,3 +21,6 @@ A machine learning project that recognizes handwritten digits using classificati
 
 ### 7. AI Chatbot
 A simple AI chatbot that responds to user queries using basic NLP techniques.
+
+### 8. Face Detection
+A computer vision project that detects human faces in real-time using OpenCV and Haar Cascade.

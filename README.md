@@ -24,3 +24,6 @@ A simple AI chatbot that responds to user queries using basic NLP techniques.
 
 ### 8. Face Detection
 A computer vision project that detects human faces in real-time using OpenCV and Haar Cascade.
+
+### 9. Fake News Detection
+A machine learning project that classifies news articles as real or fake using NLP and TF-IDF with Naive Bayes.

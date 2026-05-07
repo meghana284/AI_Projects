@@ -1,5 +1,5 @@
 # AI_Projects
-Collection of AI projects using Python including machine learning, NLP, and computer vision
+A collection of 10 AI projects using Python covering machine learning, NLP, and computer vision.
 
 ### 1. Iris Flower Classification
 A machine learning project that classifies iris flowers into different species using KNN algorithm.
@@ -27,3 +27,6 @@ A computer vision project that detects human faces in real-time using OpenCV and
 
 ### 9. Fake News Detection
 A machine learning project that classifies news articles as real or fake using NLP and TF-IDF with Naive Bayes.
+
+### 10. Resume Screening AI
+An AI-based project that screens resumes by matching required skills using NLP techniques.
